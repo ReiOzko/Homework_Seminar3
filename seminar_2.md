@@ -107,7 +107,7 @@ Content Cell  | Content Cell
 | Left-Aligned  | Center Aligned  | Right Aligned |
 |:------------- |:---------------:| -------------:|
 | col 3 is      | some wordy text |     **$1600** |
-| col 2 is      | centered        |         $12   |
+| col 2 is      | centered        |         $112   |
 | zebra stripes | are neat        |        ~~$1~~ |
 
 Внутри таблиц можно использовать ссылки, наклонный, жирный или зачеркнутый текст.
